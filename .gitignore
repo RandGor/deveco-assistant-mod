@@ -1,0 +1,7 @@
+/original/
+/output/
+/work/
+/.cache/
+/APP.md
+__pycache__/
+*.pyc
